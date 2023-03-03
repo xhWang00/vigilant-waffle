@@ -3,3 +3,5 @@ numpy
 notebook
 scipy
 pandas
+matplotlib
+flask
