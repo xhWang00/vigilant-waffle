@@ -1,0 +1,5 @@
+sklearn
+numpy
+notebook
+scipy
+pandas
