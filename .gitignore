@@ -1,2 +1,6 @@
 .venv/
+<<<<<<< HEAD
 videos/
+=======
+.ipynb_checkpoints/
+>>>>>>> 57d21e1786cfc53c17d12be10ba9d604772fea43
