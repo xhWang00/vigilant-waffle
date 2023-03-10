@@ -5,3 +5,4 @@ scipy
 pandas
 matplotlib
 flask
+opencv-python
